@@ -10,4 +10,4 @@ Aplikacija se pokreće pomoću localhost-a (i.e. XAMPP ili WAMPP).
 pokrenuti apache i mysql server na control panel-u od localhosta.
 ```
 
-Credit and inspo: "https://www.youtube.com/watch?v=WYufSGgaCZ8".
+Credit and inspo: `https://www.youtube.com/watch?v=WYufSGgaCZ8`.
